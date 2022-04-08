@@ -511,7 +511,7 @@
 					},
 					"SynapseWorkspaceName": {
 						"type": "string",
-						"defaultValue": "sinwc2pnstlbrq7upocws1.sinopaconsulting.onmicrosoft.com"
+						"defaultValue": "sinwc2pnstlbrq7upocws1.database.windows.net"
 					},
 					"SQLDedicatedPoolName": {
 						"type": "string",
